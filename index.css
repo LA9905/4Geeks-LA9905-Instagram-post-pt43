@@ -51,6 +51,8 @@ span.punto {
 img {
     width: 100%;
     height: 60%;
+    margin: 0px auto;
+    display: block;
 }
 
 .buttons {
